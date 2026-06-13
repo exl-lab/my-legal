@@ -1,0 +1,9 @@
+.DS_Store
+*.log
+*.swp
+
+# Playbook user content can include privileged client material (interview answers,
+# run records). Never commit it by default. To version one deliberately:
+# git add -f my-legal-playbook/playbooks/<name>.md
+my-legal-playbook/playbooks/*
+!my-legal-playbook/playbooks/.gitkeep
