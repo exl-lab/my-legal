@@ -124,12 +124,9 @@ rules, but the model can still be wrong, so confirm anything you rely on for rea
 primary source. The copy-paste version cannot remember across sessions or hand the accuracy check
 to a separate agent.
 
-## Credit
-Adapted from Matt Pocock's [`teach` skill](https://github.com/mattpocock/skills/tree/main/skills/productivity/teach),
-used under the MIT License (Copyright (c) 2026 Matt Pocock). The stateful, mission-grounded
-workspace and the retrieval-practice core are his design. This version specializes them for legal
-study.
-
 ## License
-MIT, see the suite `LICENSE`. Copyright (c) 2026 Eric Xiyu Li. Portions adapted from Matt Pocock's
-`teach` skill, Copyright (c) 2026 Matt Pocock, also under MIT.
+MIT, see the suite `LICENSE`. Copyright (c) 2026 Eric Xiyu Li.
+
+Adapted from Matt Pocock's [`teach` skill](https://github.com/mattpocock/skills/tree/main/skills/productivity/teach),
+used under the MIT License (Copyright (c) 2026 Matt Pocock). The stateful, mission-grounded workspace
+and the retrieval-practice core are his design, specialized here for legal study.
